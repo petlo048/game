@@ -1,0 +1,7 @@
+
+ curl --request post --url  http://localhost:8080/2/score?sessionkey=SES0 --data 1500
+ 
+ http://localhost:8080/12/login
+ 
+ 
+ http://localhost:8080/2/highscorelist
